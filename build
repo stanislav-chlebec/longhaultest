@@ -1,0 +1,2 @@
+docker-compose -f docker-compose.bridge.yml build sample-topology
+
